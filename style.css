@@ -10,6 +10,7 @@ body{
             position:fixed;
             opacity: 0;
             transition: all .2s ease-in;
+            z-index: 100;
         }
 
        .popup__content{
@@ -40,4 +41,6 @@ body{
        .popup--close{
         opacity: 0;
         transition: all .2s ease-out;
+        height: 0px;
+        width: 0px;
        }
