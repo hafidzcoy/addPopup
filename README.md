@@ -37,7 +37,7 @@ popup-ads/
 
 1. Clone Repository
 
-   git clone https://github.com/username/popup-ads.git
+   git clone https://github.com/hafidcoy/addPopup.git
  
 2. Masuk ke Folder
    
